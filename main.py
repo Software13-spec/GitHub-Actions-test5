@@ -1,7 +1,7 @@
 print("hello world")
 
 
-def welcome ():
+def welcome():
     print("welcome to Intellipaat")
 
 
